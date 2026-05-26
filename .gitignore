@@ -1,0 +1,9 @@
+echo "__pycache__/
+*.pyc
+.env
+*.bin
+*.pt
+*.ckpt
+result/
+final_summary_model/
+.streamlit/" > .gitignore
